@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "129877128933",
+    "project_id": "obonstore-5b8cf",
+    "storage_bucket": "obonstore-5b8cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129877128933:android:0952689c7430355ccf060c",
+        "android_client_info": {
+          "package_name": "com.obon.obonstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129877128933-pvpduavhjtsn1pans8tfvi5oi8mcj2cb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwTOlJRJcjD2xVpP9rlftKh4uFU3WFkGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129877128933-pvpduavhjtsn1pans8tfvi5oi8mcj2cb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
